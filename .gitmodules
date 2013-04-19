@@ -1,3 +1,0 @@
-[submodule "vendor/dompdf"]
-	path = vendor/dompdf
-	url = https://github.com/dompdf/dompdf.git
