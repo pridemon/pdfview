@@ -40,5 +40,6 @@ if ( ! defined('DOMPDF_ENABLE_REMOTE'))
 	define('DOMPDF_ENABLE_REMOTE', TRUE);
 }
 
+
 // Load DOMPDF configuration, this will prepare DOMPDF
-require_once Kohana::find_file('vendor', 'dompdf/dompdf/dompdf_config.inc');
+require_once Kohana::find_file('vendor', 'dompdf/dompdf_config.inc');
