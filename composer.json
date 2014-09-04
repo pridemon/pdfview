@@ -1,0 +1,24 @@
+{
+    "name": "pridemon/pdfview",
+    "type":        "kohana-module",
+    "description": "Extension for Kohana's View class that renders as a PDF instead of HTML.",
+    "license":     "BSD-3-Clause",
+    "require": {
+        "composer/installers": "~1.0",
+        "kohana/core":         ">=3.3",
+        "php":                 ">=5.3.3"
+    },
+    "repositories"			:[
+
+        {
+            "type":"git",
+            "url":"https://github.com/pridemon/pdfview.git"
+        }
+    ],
+    "authors": [
+        {
+            "name": "Ilya Gudkov",
+            "email": "pridemon@yandex.ru"
+        }
+    ]
+}
